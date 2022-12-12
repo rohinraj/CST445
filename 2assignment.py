@@ -1,3 +1,4 @@
+#Check whether the given number is prime or not ( use for)
 num = int(input("Enter The Number: "))
 if num > 1:
     for i in range(2, int(num/2)+1):

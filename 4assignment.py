@@ -1,3 +1,4 @@
+#Find the sum of the cosine series 1-x^2/2!+x^4/4!-x^6/6!......n terms.Use a function fact to find the factorial of the number( university question).
 import math
 def Series( x , n ):
     sum = 1
